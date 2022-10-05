@@ -1,0 +1,59 @@
+p {
+    text-align: justify;
+    margin: 25px;
+    font-family: 'B612', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Rubik Dirt', cursive;
+}
+
+
+
+
+
+#div1 {
+    background-color: black;
+    width: 400%;
+    color: white;
+    margin: 10px;
+}
+
+#div2 {
+    background-color: red;
+    color: black;
+    width: 400%;
+    margin: 10px;
+}
+
+#div3 {
+    background-color: green;
+    color: black;
+    width: 400%;
+    margin: 10px;
+}
+
+#div4 {
+    background-color: yellow;
+    color: black;
+    width: 400%;
+    margin: 10px;
+}
+
+
+
+#uno {
+    text-align: center;
+    margin: 10px;
+    display: flex;
+}
+
+h6 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+img {
+    height: 20%;
+    width: auto;
+}
